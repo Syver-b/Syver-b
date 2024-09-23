@@ -1,4 +1,11 @@
-## Hi there 👋
+<!--<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="A REALLY COOL PIC" src="YOUR-DEFAULT-IMAGE">
+</picture>
+-->
+
+**Hi there** 👋
 
 <!--
 **Syver-b/Syver-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
